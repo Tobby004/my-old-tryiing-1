@@ -1,0 +1,22 @@
+{
+    "sourceFile": "index.html",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1676577097457,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1676577116911,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -8,9 +8,8 @@\n     <title>My online store</title>\n </head>\n <body>\n     <header>\n-    \n         <nav>\n             <ul>\n                 <li><a href=\"index.html\">Home</a></li>\n                 <li><a href=\"menu.html\">Menu</a></li>\n"
+                }
+            ],
+            "date": 1676577097457,
+            "name": "Commit-0",
+            "content": "<!DOCTYPE html>\n<html lang=\"en_us\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <link rel=\"stylesheet\" href=\"style.css\">\n    <title>My online store</title>\n</head>\n<body>\n    <header>\n    \n        <nav>\n            <ul>\n                <li><a href=\"index.html\">Home</a></li>\n                <li><a href=\"menu.html\">Menu</a></li>\n                <li><a href=\"Location.html\">Location</a></li>\n                <li><a href=\"index.html\">Cocktail Store</a></li>\n                <li><a href=\"contact.html\">Contact</a></li>\n               \n            </ul>\n        </nav>\n        <h1>Home<h1>\n        <h2>Welcome To Cocktail Store</h2>\n        <h3><a href=\"index.html\">Place Your Order</a></h3>\n       \n    </header>\n    <section class=\"feature\">\n        <div><strong>Sex on beach cocktail</strong></div>\n        <div><strong>Pineapple flavour</strong></div>\n        <div><strong>Strawberry flavour</strong></div>\n        <div><strong>Flower</strong></div>\n    </section>\n    <footer>Thanks for Patronize</footer>\n    <footer>Copyright 2022</footer>\n</body>\n</html>"
+        }
+    ]
+}
